@@ -1,2 +1,2 @@
 # cl12_kadai
-aaaa
+print("Hello world")
